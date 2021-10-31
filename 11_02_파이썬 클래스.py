@@ -168,3 +168,5 @@ lg = Stock("LG전자","066570",317.34,0.69,1.37)
 ls = [samsung,hyundai,lg]
 for per in ls:
   print(per.per)
+
+print("깃허브 수정사항")

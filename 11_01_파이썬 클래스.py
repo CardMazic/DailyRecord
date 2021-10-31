@@ -80,4 +80,4 @@ class Human:
     print("나의 죽음을 알리지마라")
 areum = Human("이름",25,"남자")
 areum.who()
-del areum         
+del areum
